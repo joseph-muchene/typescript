@@ -1,0 +1,12 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "<!-- The TS type System -->\r 1. Helps us catch errors during development\r 2. uses type annotation to analyza our code\r 3. only active during development\r 4. Doesnt provide any perfomance optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
