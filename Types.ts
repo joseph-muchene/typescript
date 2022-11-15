@@ -69,3 +69,15 @@ for(let x = 0; x < values.length; x++){
     }
 }
 
+// annotations around functions
+const add:(a:number,b:number) => number = (a,b) =>  a + b
+
+
+const multiply = (x:number,y:number):number => x * y
+
+
+
+// 25
+
+
+
