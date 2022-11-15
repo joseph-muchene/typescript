@@ -1,7 +1,5 @@
 import axios from 'axios'
-
 // https://jsonplaceholder.typicode.com/todos/1
-
 async function fetchData(){
 // use of interface to show our response types
     interface Todo{
